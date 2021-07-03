@@ -1,3 +1,6 @@
+h1,h2,h3,h4,h5,h6{
+  font-weight: bold;
+}
 h1{
   font-size:$fonts-size-xxxxx-large
 }
@@ -12,4 +15,7 @@ h4{
 }
 h5{
   font-size:$fonts-size-x-large
+}
+h6{
+  font-size:$fonts-size-large;
 }

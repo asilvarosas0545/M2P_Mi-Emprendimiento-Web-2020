@@ -10729,6 +10729,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  font-weight: bold;
+}
+
 h1, .h1 {
   font-size: 50px;
 }
@@ -10747,6 +10751,10 @@ h4, .h4 {
 
 h5, .h5 {
   font-size: 30px;
+}
+
+h6, .h6 {
+  font-size: 20px;
 }
 
 body {
@@ -11058,6 +11066,10 @@ body {
 }
 .course__rrss-container a {
   color: #001614 !important;
+}
+.course i {
+  padding-right: 2.5px;
+  padding-left: 2.5px;
 }
 
 .footer {
